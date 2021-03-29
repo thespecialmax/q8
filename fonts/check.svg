@@ -1,0 +1,60 @@
+
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
+	Bar Restaurant l'Authentique
+</title><link href="../css/css_1.css" rel="stylesheet"><link href="../css/Resources_8.css" rel="stylesheet" type="text/css">
+
+    <style type="text/css">
+        .wsToolBar #logo { background-image: url(logo.svg); }
+        .wsSubTitle a, .wsSiteMap #Menu .wsMobileMenuContent a { color: #0bafc2; }
+        .wsSubTitle a:hover, .wsSiteMap #Menu .wsMobileMenuContent a:hover { color: #23c4d6; }
+        .wsCreateWebSite input[type=button] { background-color: #0bafc2; color: #fff; }
+        .wsCreateWebSite input[type=button]:hover { background-color: #23c4d6; }
+        .wsSubTitle, .wsCreateWebSite, .wsCreateWebSite a, .wsSiteMap #Menu .wsMobileMenuContent div:before { color: #72808e; }
+    </style>
+</head>
+<body>
+    <form method="post" action="./PageNotFound.aspx?index=1&amp;id=1446593" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDA5NzIxNjg5ZGSvX20pxbtAUvFP6HR2pkgp5zbPFk7wdBQomF6oqprIFA==">
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="DABFC994">
+</div>
+        
+            <div class="wsToolBar">
+                <div id="facebook"><a href="https://www.facebook.com/fb.WebSelf.net"><img class="wsTools" src="facebook.svg" alt="Facebook"></a></div>
+                <div id="logo" onclick="window.location.href='https://www.webself.net'"></div>
+            </div>
+            <div class="wsQuestionMark">
+            </div>
+            <div class="wsTitle">
+                Bar Restaurant l'Authentique
+            </div>
+            <div class="wsSubTitle">
+                <div>
+                     <p>Bar Restaurant l&#39;Authentique situ&eacute; &agrave; Valderies, &agrave; 4 km de Carmaux.&nbsp;</p>
+
+                </div>
+                <a href="/" target="_self">Retour à la page d'accueil</a>
+            </div>
+            
+            <div class="wsCreateWebSite">
+                Créez vous aussi votre <a href="http://www.webself.net" rel="nofollow">site internet gratuit</a>
+                <div>
+                    <input type="button" value="Cliquez ici" onclick="window.location.href='https://www.webself.net'">
+                </div>
+            </div>
+            
+            <div class="wsSiteMap">
+                <div>Plan du site</div><div id="MenuWrapper"><div id="Menu"><div id="TabsHolder"><div class="item"><a href="/accueil" name="ACCUEIL" data-id="9878048"><span name="ACCUEIL">ACCUEIL</span></a></div><div class="item"><a href="/nosformules" name="NOS FORMULES" data-id="9878049"><span name="NOS FORMULES">NOS FORMULES</span></a></div><div class="item"><a href="/repasdegroupe" name="REPAS DE GROUPE" data-id="9878050"><span name="REPAS DE GROUPE">REPAS DE GROUPE</span></a></div><div class="item"><a href="/contact" name="CONTACT" data-id="9878051"><span name="CONTACT">CONTACT</span></a></div></div></div></div>
+            </div>
+        
+    </form>
+</body>
+</html>
