@@ -1,0 +1,31 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3644377, 2018-09-20T04:11:47-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Pancho-Regular by Indian Type Foundry
+ * URL: https://www.myfonts.com/fonts/indian-type-foundry/pancho/regular/
+ * Copyright: Copyright 2015 Indian Type Foundry. All rights reserved.
+ * Licensed pageviews: 510,000
+ * 
+ * 
+ * License: https://www.myfonts.com/viewlicense?type=web&buildid=3644377
+ * 
+ * © 2018 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("379bd9.css");
+
+
+@font-face {
+    font-family: 'pancho-regular';
+    src: url('../fonts/379BD9_0_0.eot');
+    src: url('../fonts/379BD9_0_0.eot#iefix') format('embedded-opentype'),url('../fonts/379BD9_0_0.woff2') format('woff2'),url('../fonts/379BD9_0_0.woff') format('woff'),url('../fonts/379BD9_0_0.ttf') format('truetype');
+}

@@ -1,0 +1,1418 @@
+
+
+
+<!DOCTYPE html>
+<html lang="fr-FR" prefix="og: http://ogp.me/ns#">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="../css/MyFontsWebfontsKit.css" rel="stylesheet">
+    <link rel="stylesheet" href="../css/all.css">
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
+
+    <link id="themeStyle" href="../css/HorizontalOrange.min.css" rel="stylesheet" type="text/css" media="screen">
+    
+
+    <link href="../favicon.ico" type="image/x-icon" rel="shortcut icon">
+    <link href="../css/bootstrap-print.css" rel="stylesheet" type="text/css" media="print">
+    <link href="../css/print.min.css" rel="stylesheet" type="text/css" media="print">
+
+    
+        <link rel="canonical" href="https://www.biocoopvillefranche.com/">
+    
+    <title>Biocoop Villefranche de Rouergue - Magasin bio &#224; Villefranche-de-Rouergue.</title>
+        <meta name="Description" content="Biocoop Villefranche de Rouergue propose des produits bio issus du commerce &#233;quitable et des &#233;coproduits &#224; Villefranche-de-Rouergue.">
+    <meta property="og:locale" content="fr_FR">
+    <meta property="og:type" content="website">
+        <meta property="og:title" content="Biocoop Villefranche de Rouergue - Magasin bio &#224; Villefranche-de-Rouergue.">
+            <meta property="og:description" content="Biocoop Villefranche de Rouergue propose des produits bio issus du commerce &#233;quitable et des &#233;coproduits &#224; Villefranche-de-Rouergue.">
+    <meta property="og:url" content="https://www.biocoopvillefranche.com/?page=404&amp;404;https://www.biocoopvillefranche.com:443/img/ico-recette-bigger.png">
+
+
+        <meta property="og:image" content="../fonts/logo-biocoop-v2.svg">
+    <meta property="og:site_name" content="Biocoop Villefranche de Rouergue">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Biocoop Villefranche de Rouergue - Magasin bio &#224; Villefranche-de-Rouergue.">
+    <meta name="twitter:description" content="Biocoop Villefranche de Rouergue propose des produits bio issus du commerce &#233;quitable et des &#233;coproduits &#224; Villefranche-de-Rouergue.">
+    <meta name="twitter:image" content="https://www.biocoopvillefranche.com/?page=404&amp;404;https://www.biocoopvillefranche.com:443/img/ico-recette-bigger.png/img/logo-biocoop-v2.svg">
+    <link rel="publisher" href="#">
+
+    <script src="../js/jquery-2.2.4.min.js"></script>
+<script src="../js/jquery-extserialization.min.js"></script>
+<script src="../js/jquery-ui.min.js"></script>
+
+
+    <script src="../js/cookies.js"></script>
+    <script>
+
+        tarteaucitron.init({
+            "privacyUrl": "/mentions-legales-biocoop-villefranche-de-rouergue.html",
+            "readmoreLink": "/mentions-legales-biocoop-villefranche-de-rouergue.html",
+            "hashtag": "#cookies",
+            "cookieName": "eu-consent",
+            "orientation": "bottom",
+            "showAlertSmall": false,
+            "cookieslist": false,
+            "adblocker": false,
+            "AcceptAllCta": true,
+            "DenyAllCta": false,
+            "highPrivacy": true,
+            "handleBrowserDNTRequest": false,
+            "expireCookie": 180,
+            "removeCredit": false,
+            "moreInfoLink": true,
+            "useExternalCss": false,
+            "mandatory": true
+        });
+
+        (tarteaucitron.job = tarteaucitron.job || []).push('youtube');
+        (tarteaucitron.job = tarteaucitron.job || []).push('dailymotion');
+        (tarteaucitron.job = tarteaucitron.job || []).push('vimeo');
+        (tarteaucitron.job = tarteaucitron.job || []).push('analyticsforced');
+    </script>
+
+
+        <script async src="../js_1"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() { dataLayer.push(arguments); }
+            gtag('js', new Date());
+            gtag('config', 'UA-85010472-14', { 'anonymize_ip': true });
+            gtag('config', 'UA-26277856-1', { 'anonymize_ip': true });
+        </script>
+
+    
+<meta name="google-site-verification" content="OvbmvxI4dPKEAv2Td1zwgF_xil5SGfYqZQMj-afSFOg">
+
+
+    
+    
+    <script src="../js/jquery-2.2.4.min.js"></script>
+<script src="../js/jquery-extserialization.min.js"></script>
+<script src="../js/jquery-ui.min.js"></script>
+
+    
+
+    
+</head>
+<body>
+    <!--A ne pas mettre pour l'intégration : switch style-->
+    
+    <!-- ------------------------------------------------- -->
+
+
+    <a href="#" id="back-to-top">
+        <i class="fas fa-chevron-up" aria-hidden="true">
+        </i>
+    </a>
+
+    <header id="weHeader" data-spy="affix">
+        <div id="headerContent">
+                <div id="newsletter" class="animation-target">
+                    <div class="title">La newsletter Biocoop<i class="fas fa-times close-newsletter" aria-hidden="true"></i></div>
+                    <p>Restez informé de nos promotions, actualités et événements en magasin</p>
+                    <a href="#" onclick="openNewsletter()" class="btn btn-default">inscrivez-vous</a>
+                </div>
+            <div class="topHeaderInfo">
+                <div class="maxWidth">
+                    <div class="container-fluid">
+                        <div class="row">
+
+                            <div class="col-sm-8 col-sm-push-4 right-info">
+
+
+                                    <span class="ouverture">
+                                            Votre magasin est actuellement fermé
+                                    </span>
+
+
+                                <a href="tel:0967161492" class="telephone" data-toggle="tooltip" data-placement="bottom" title="Nous contacter"><span itemprop="telephone">09 67 16 14 92</span></a>
+                            </div>
+
+                            <div class="col-sm-4 col-sm-pull-8">
+                                <ul class="containerReseauSociaux">
+
+
+                                        <li class="reseauSociaux">
+                                            <a href="https://www.facebook.com/Biocoop-Villefranche-Rouergue-1892693717636587/" target="_blank"><i class="fab fa-facebook-f" aria-hidden="true"></i></a>
+                                        </li>
+                                        <li class="reseauSociaux">
+                                            <a href="https://www.instagram.com/biocoopvillefranchederouergue/" target="_blank"><i class="fab fa-instagram" aria-hidden="true"></i></a>
+                                        </li>
+                                        <li class="reseauSociaux">
+                                            <a href="https://twitter.com/Biocoop" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+                                        </li>
+                                        <li class="reseauSociaux">
+                                            <a href="https://www.youtube.com/user/ReseauBiocoop" target="_blank"><i class="fab fa-youtube" aria-hidden="true"></i></a>
+                                        </li>
+                                        <li class="reseauSociaux">
+                                            <a href="https://fr.pinterest.com/biocoop/" target="_blank"><i class="fab fa-pinterest" aria-hidden="true"></i></a>
+                                        </li>
+                                </ul>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="headerInfo">
+                <div class="container-fluid">
+                    <div class="maxWidth">
+                        <div class="row titleContainer">
+                            <div class="col-md-3">
+
+                                <a href="/" class="title"><img itemprop="image" src="../fonts/logo-biocoop-v2.svg" alt="logo Biocoop"></a>
+
+                            </div>
+
+                            <div class="col-md-9">
+
+                                <div class="h1">
+
+                                    Biocoop Villefranche de Rouergue
+
+                                </div>
+
+                                <ul class="headerHorizontalIcon">
+                                    <li class="map">
+                                        <a href="/presentation-horaires-itineraires-biocoop-villefranche-de-rouergue.html#plan-acces" data-toggle="tooltip" data-placement="bottom" title="Plan d'accès"><i class="fas fa-map-marker-alt" aria-hidden="true"></i></a>
+                                    </li>
+                                    <li class="contact">
+                                        <a href="/contact-biocoop-villefranche-de-rouergue.html" data-toggle="tooltip" data-placement="bottom" title="Nous contacter"><i class="fas fa-envelope" aria-hidden="true"></i></a>
+                                    </li>
+                                    <li class="horaire">
+                                        <a href="/presentation-horaires-itineraires-biocoop-villefranche-de-rouergue.html#horaires" data-toggle="tooltip" data-placement="bottom" title="Nos horaires"><i class="fas fa-clock" aria-hidden="true"></i></a>
+                                    </li>
+                                </ul>
+
+
+                                <ul class="headerMilitantIcon">
+                                    <li class="home">
+                                        <a href="/" data-toggle="tooltip" data-placement="bottom" title="Retour à l'accueil"><i class="fas fa-home" aria-hidden="true"></i></a>
+                                    </li>
+                                    <li>
+                                        <a href="/contact-biocoop-villefranche-de-rouergue.html" data-toggle="tooltip" data-placement="bottom" title="Nous contacter"><i class="fas fa-envelope" aria-hidden="true"></i></a>
+                                    </li>
+                                    <li>
+                                        <a href="/presentation-horaires-itineraires-biocoop-villefranche-de-rouergue.html#plan-acces" data-toggle="tooltip" data-placement="bottom" title="Plan d'accès"><i class="fas fa-map-marker-alt" aria-hidden="true"></i></a>
+                                    </li>
+                                    <li>
+                                        <a href="/presentation-horaires-itineraires-biocoop-villefranche-de-rouergue.html#horaires" data-toggle="tooltip" data-placement="bottom" title="Nos horaires"><i class="fas fa-clock" aria-hidden="true"></i></a>
+                                    </li>
+                                </ul>
+
+                                    <a href="https://www.bio.coop/magasin-biocoop_villefranche/?utm_source=web-enseignes&utm_medium=site-local&utm_campaign=bouton-header" class="click-collect" target="_blank" onclick="gtag('event', 'Header',{'event_category': 'Drive','event_label': 'Header : Drive'});">Mes courses en ligne</a>
+
+                            </div>
+
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <nav id="headerNav">
+                <div class="">
+                    <div id="mainNav" class="navbar navbar-default">
+                        <div class="navbar-header">
+                            <ul class="quickNav">
+                                <li class="menu">
+                                    <a href="#mainNav-collapse" data-toggle="collapse" aria-expanded="false" aria-controls="mainNav-collapse" role="button">
+                                        <i class="far fa-bars"></i>Menu
+                                    </a>
+                                </li>
+                            </ul>
+
+                            <div class="container-fluid">
+                                <div class="maxWidth">
+                                    <div id="mainNav-collapse" class="navbar-collapse collapse" role="navigation" aria-expanded="false">
+
+
+
+                                        <a class="boutonClose" href="#mainNav-collapse" data-toggle="collapse" aria-expanded="false" aria-controls="mainNav-collapse" role="button">
+                                            <i class="fas fa-times fa-3x"></i>
+                                        </a>
+                                        <ul class="nav navbar-nav">
+                                            <li class="home-Horizontal" data-toggle="tooltip" data-placement="bottom" title="Retour à l'accueil">
+                                                <a href="/"><i class="fas fa-home" aria-hidden="true"></i></a>
+                                            </li>
+
+                                            <li>
+                                                <a href="/presentation-horaires-itineraires-biocoop-villefranche-de-rouergue.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Le magasin<span class="caret"></span></a>
+                                                <ul class="dropdown-menu">
+
+                                                    <li class="boutonRetour">
+                                                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                                                            <i class="fas fa-arrow-right fa-3x" aria-hidden="true"></i>
+                                                        </a>
+                                                    </li>
+                                                    <li class="drop">
+                                                        <a href="/presentation-horaires-itineraires-biocoop-villefranche-de-rouergue.html">Présentation détaillée</a>
+                                                    </li>
+
+
+                                                        <li class="drop">
+                                                            <a href="/videos-biocoop-villefranche-de-rouergue/1.html">Vidéos</a>
+                                                        </li>
+
+                                                </ul>
+                                            </li>
+
+                                                <li>
+                                                    <a href="/agenda-biocoop-villefranche-de-rouergue/1.html">Agenda</a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="/actualites-biocoop-villefranche-de-rouergue/1.html">Actualités</a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="/produits-biocoop-villefranche-de-rouergue/1.html">Produits</a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="/recettes-biocoop-villefranche-de-rouergue/1.html">Recettes</a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="/producteurs-biocoop-villefranche-de-rouergue/1.html">Producteurs Locaux</a>
+                                                </li>
+                                            <li>
+                                                <a href="/magazines-biocoop-villefranche-de-rouergue.html">Magazines</a>
+                                            </li>
+                                                <li>
+                                                    <a href="/biocoop-presentation-biocoop-villefranche-de-rouergue.html">Biocoop</a>
+                                                </li>
+                                                                                        
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </nav>
+            <div class="logo-sidebar">
+                
+            </div>
+        </div>
+    </header>
+    <div id="weSiteContent">
+        
+
+
+
+
+<div id="homepage">
+
+
+    <section id="infoMagasin" class="container-fluid weModule">
+        <div class="maxWidth">
+            <header class="enteteSection">
+                <div class="row">
+                    <div class="col-md-6">
+                        <h1 class="h1">Biocoop Villefranche de Rouergue</h1>
+                        <div class="h2">Villefranche-de-Rouergue</div>
+                    </div>
+
+                    <div class="col-md-6 col-sm-12">
+                        <div class="horaires">
+
+
+
+                                <div class="today">
+
+                                    <span>
+                                            Votre magasin est actuellement fermé.
+                                    </span>
+                                </div>
+                        </div>
+                    </div>
+                </div>
+            </header>
+
+
+
+            <div id="infoMagasinContent">
+                <div class="row">
+                        <div class="horaireExceptionelle">
+                            <p><span>Changement d&#39;horaires - 22 mars 2021 !</span> <div style="text-align: center;">
+<div data-contents="true">
+<div data-block="true" data-editor="f973q" data-offset-key="35d4c-0-0">
+<div class="_1mf _1mj" data-offset-key="35d4c-0-0">&nbsp;</div>
+</div>
+
+<div data-block="true" data-editor="f973q" data-offset-key="enht3-0-0">
+<div class="_1mf _1mj" data-offset-key="enht3-0-0"><strong>Horaires exceptionnels suite aux derni&egrave;res annonces ! En vigueur &agrave; partir du lundi 22 mars 2021 !<br>
+Lundi 14h30 19h<br>
+mardi, mercredi, vendredi&nbsp;et samedi 9h 12h30 et 14h30 19h<br>
+NON STOP le jeudi 9h 19h<br>
+A tr&egrave;s vite !</strong></div>
+</div>
+</div>
+</div>
+</p>
+                        </div>
+
+                    <div class="col-md-7">
+                        <div class="h4">102 bis avenue du Quercy - (Route de Montauban) - 12200 Villefranche-de-Rouergue</div>
+                        <span class="gps">
+                            <span>Se rendre vers ce magasin :</span>
+                            <a href="https://waze.com/ul?q=102 bis avenue du Quercy,+12200+Villefranche-de-Rouergue&amp;ll=44.360603,2.015564&amp;navigate=yes" class="option">
+                                <img src="waze.png">
+                                Waze
+                            </a>
+
+                            <a href="http://maps.google.fr/maps?q=44.360603,2.015564" class="option">
+                                <img src="map.png">
+                                Google Maps
+                            </a>
+                            <a href="http://maps.apple.com/?daddr=44.360603,2.015564&dirflg=d" class="option">
+                                <img src="plan.png">
+                                Plan
+                            </a>
+                        </span>
+                        <div>
+                            
+                        </div>
+
+                        <div class="btnInfoMagasin">
+                            <a href="/presentation-horaires-itineraires-biocoop-villefranche-de-rouergue.html"><i class="fas fa-search" aria-hidden="true"></i>Découvrir le magasin</a>
+                        </div>
+                    </div>
+
+                    <div class="col-md-5">
+                            <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                                <!-- Indicators -->
+                                <ol class="carousel-indicators">
+
+                                        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                                        <li data-target="#myCarousel" data-slide-to="1" class=""></li>
+                                        <li data-target="#myCarousel" data-slide-to="2" class=""></li>
+                                        <li data-target="#myCarousel" data-slide-to="3" class=""></li>
+                                        <li data-target="#myCarousel" data-slide-to="4" class=""></li>
+                                </ol>
+
+                                <!-- Wrapper for slides -->
+                                <div class="carousel-inner" role="listbox">
+                                        <div class="item active">
+                                            <img src="biocoop-villefranche-de-rouergue06-1.JPG" alt="Photos du magasin" title="Photos du magasin">
+                                        </div>
+                                        <div class="item ">
+                                            <img src="biocoop-villefranche-de-rouergue01-1.JPG" alt="Photos du magasin" title="Photos du magasin">
+                                        </div>
+                                        <div class="item ">
+                                            <img src="biocoop-villefranche-de-rouergue02-1.JPG" alt="Photos du magasin" title="Photos du magasin">
+                                        </div>
+                                        <div class="item ">
+                                            <img src="biocoop-villefranche-de-rouergue03-1.JPG" alt="Photos du magasin" title="Photos du magasin">
+                                        </div>
+                                        <div class="item ">
+                                            <img src="biocoop-villefranche-de-rouergue04-1.JPG" alt="Photos du magasin" title="Photos du magasin">
+                                        </div>
+
+
+                                </div>
+                            </div>
+
+                    </div>
+                </div>
+
+                <div class="btnContact">
+                    <a href="/presentation-horaires-itineraires-biocoop-villefranche-de-rouergue.html#plan-acces" class="itineraire">
+                        <span>Itinéraire & <br>plan d'accès</span>
+                    </a>
+                    <a href="/contact-biocoop-villefranche-de-rouergue.html" class="contact">Contact</a>
+
+                        <a href="tel:0967161492" class="telephone">09 67 16 14 92</a>
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+        <section id="home-click-and-collect" class="container-fluid weModule">
+            <div class="maxWidth">
+
+                <div class="row">
+                    <div class="col-md-6 pull-col">
+                        <div class="content">
+                            <div class="title">
+                                Découvrez notre site <span>Click & Collect</span>
+                            </div>
+                            <a href="https://www.bio.coop/magasin-biocoop_villefranche/?utm_source=web-enseignes&utm_medium=site-local&utm_campaign=bouton-home" onclick="gtag('event', 'Home',{'event_category': 'Drive','event_label': 'Home : Drive'});" target="_blank">Commander en ligne</a>
+                            <p>
+                                Dès aujourd'hui, vous pouvez commander <br>vos courses en ligne et venir les chercher <br>dans votre magasin Biocoop
+                                <span>Consommer responsable <br>devient plus facile !</span>
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 col-md-offset-1 bg-image push-col">
+                        <img src="fond-click-and-collect-min.png">
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+
+
+        <section id="home-actualite" class="container-fluid weModule">
+            <div class="maxWidth">
+                <header class="enteteSection">
+                    <div class="row">
+                        <div class="col-sm-7 col-md-7 fullWidth">
+                            <h2 class="hTitle"><span class="weDesignSpe">Actualités</span></h2>
+                        </div>
+                        <div class="col-sm-5 col-md-5 btnMilitant">
+                            <a href="/actualites-biocoop-villefranche-de-rouergue/1.html" class="btn btn-default btnListe">
+                                Voir toutes nos actualités
+                                <i class="fas fa-arrow-right" aria-hidden="true"></i>
+                            </a>
+                        </div>
+                    </div>
+                </header>
+
+                <ul class="weItemList">
+                        <li class="weItem">
+                            <div class="weInnerItem">
+                                <div class="row">
+                                    <div class="col-md-4 col-sm-6">
+                                            <a href="/actualites-biocoop-villefranche-de-rouergue/biocoop-solidaire-attitude-17704.html" class="image" title="Biocoop Solidaire Attitude "><img src="Biocoop-Solidaire-Attitude-ensemble-appliquons-les-bonnes-pratiques-clients-en-magasin-face-au-COVID-19.jpg" alt="Biocoop Solidaire Attitude "></a>
+                                        
+                                    </div>
+
+                                    <div class="col-md-8 col-sm-6">
+                                                <p class="date"><i class="fas fa-pencil" aria-hidden="true"></i>Le 16/03/2020</p>
+
+                                        <div class="titre">
+                                            <h2 class="h2"><a href="/actualites-biocoop-villefranche-de-rouergue/biocoop-solidaire-attitude-17704.html">Biocoop Solidaire Attitude </a></h2>
+                                            <!--<div class="h3">Biocoop <span>Villefranche-de-Rouergue</span></div>-->
+                                        </div>
+                                        <div class="resume">
+                                            Ensemble, appliquons les bonnes pratiques en magasin face au COVID-19.
+                                        </div>
+                                        <a href="/actualites-biocoop-villefranche-de-rouergue/biocoop-solidaire-attitude-17704.html" class="btn btn-default btnDetail"><i class="fas fa-calendar-check" aria-hidden="true"></i>Lire la suite</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="weItem">
+                            <div class="weInnerItem">
+                                <div class="row">
+                                    <div class="col-md-4 col-sm-6">
+                                            <a href="/actualites-biocoop-villefranche-de-rouergue/brochure-le-commerce-equitable-applique-france-2584.html" class="image" title="Brochure &#171; Le commerce &#233;quitable appliqu&#233; France &#187;"><img src="3475_Brochure-Le-commerce-quitable-appliqu-France-.jpg" alt="Brochure &#171; Le commerce &#233;quitable appliqu&#233; France &#187;"></a>
+                                        
+                                    </div>
+
+                                    <div class="col-md-8 col-sm-6">
+                                            <p class="date"><i class="fas fa-pencil" aria-hidden="true"></i>À partir du 10/03/2016</p>
+
+                                        <div class="titre">
+                                            <h2 class="h2"><a href="/actualites-biocoop-villefranche-de-rouergue/brochure-le-commerce-equitable-applique-france-2584.html">Brochure &#171; Le commerce &#233;quitable appliqu&#233; France &#187;</a></h2>
+                                            <!--<div class="h3">Biocoop <span>Villefranche-de-Rouergue</span></div>-->
+                                        </div>
+                                        <div class="resume">
+                                            Une réponse aux enjeux économiques, sociaux et environnementaux du monde agricole en France.
+                                        </div>
+                                        <a href="/actualites-biocoop-villefranche-de-rouergue/brochure-le-commerce-equitable-applique-france-2584.html" class="btn btn-default btnDetail"><i class="fas fa-calendar-check" aria-hidden="true"></i>Lire la suite</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+        </section>
+
+
+
+        <section id="home-recette" class="container-fluid weModule">
+            <div class="maxWidth">
+                <header class="enteteSection">
+                    <div class="row">
+                        <div class="col-sm-7 col-md-7 fullWidth">
+                            <h2 class="hTitle"><span class="weDesignSpe">Recettes</span></h2>
+                        </div>
+                        <div class="col-sm-5 col-md-5 btnMilitant">
+                            <a href="/recettes-biocoop-villefranche-de-rouergue/1.html" class="btn btn-default btnListe">
+                                Voir toutes nos recettes
+                                <i class="fas fa-arrow-right" aria-hidden="true"></i>
+                            </a>
+                        </div>
+                    </div>
+                </header>
+
+                <ul class="row weItemList">
+
+                        <li class="col-md-6 weItem">
+                            <div class="weInnerItem">
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <a href="/recettes-biocoop-villefranche-de-rouergue/gelee-de-lait-damandes-au-coulis-de-kiwis-123.html" class="image" title="Gel&#233;e de lait d’amandes au coulis de kiwis">
+                                            <div class="imgHover">
+                                                    <img src="296_Gel-e-de-lait-d-amandes-au-coulis-de-kiwis.jpg" alt="Gel&#233;e de lait d’amandes au coulis de kiwis" title="Gel&#233;e de lait d’amandes au coulis de kiwis">
+
+                                                
+
+                                            </div>
+                                        </a>
+                                    </div>
+
+                                    <div class="col-md-6">
+                                        <a href="/recettes-biocoop-villefranche-de-rouergue/gelee-de-lait-damandes-au-coulis-de-kiwis-123.html" class="h3 titre">Gel&#233;e de lait d’amandes au coulis de kiwis</a>
+                                    </div>
+                                </div>
+
+                                <div class="row">
+                                    <div class="col-sm-6 text-center tag-button">
+                                            <a href="/recettes-biocoop-villefranche-de-rouergue/1.html?repas=8" class="btn btn-default btnListe categorie">Dessert</a>
+                                    </div>
+
+                                    <div class="col-sm-6">
+                                        <div class="infoRecette">
+                                            <p>Préparation : 10 min</p>
+                                            <p>Cuisson : 5 min</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="btnRecette">
+                                    <a href="/recettes-biocoop-villefranche-de-rouergue/gelee-de-lait-damandes-au-coulis-de-kiwis-123.html" class="btn btn-default btnDetail">Je fais !!</a>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="col-md-6 weItem">
+                            <div class="weInnerItem">
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <a href="/recettes-biocoop-villefranche-de-rouergue/puree-de-pois-casses-248.html" class="image" title="Pur&#233;e de pois cass&#233;s">
+                                            <div class="imgHover">
+                                                    <img src="468_Pur-e-de-pois-cass-s.jpg" alt="Pur&#233;e de pois cass&#233;s" title="Pur&#233;e de pois cass&#233;s">
+
+                                                
+
+                                            </div>
+                                        </a>
+                                    </div>
+
+                                    <div class="col-md-6">
+                                        <a href="/recettes-biocoop-villefranche-de-rouergue/puree-de-pois-casses-248.html" class="h3 titre">Pur&#233;e de pois cass&#233;s</a>
+                                    </div>
+                                </div>
+
+                                <div class="row">
+                                    <div class="col-sm-6 text-center tag-button">
+                                            <a href="/recettes-biocoop-villefranche-de-rouergue/1.html?repas=15" class="btn btn-default btnListe categorie">Plat</a>
+                                    </div>
+
+                                    <div class="col-sm-6">
+                                        <div class="infoRecette">
+                                            <p>Préparation : 0 min</p>
+                                            <p>Cuisson : 0 min</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="btnRecette">
+                                    <a href="/recettes-biocoop-villefranche-de-rouergue/puree-de-pois-casses-248.html" class="btn btn-default btnDetail">Je fais !!</a>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="col-md-6 weItem">
+                            <div class="weInnerItem">
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <a href="/recettes-biocoop-villefranche-de-rouergue/tartare-de-saumon-pomme-et-alfa-blanche-206.html" class="image" title="Tartare de Saumon, pomme et Alfa blanche">
+                                            <div class="imgHover">
+                                                    <img src="391_Tartare-de-Saumon-pomme-et-Alfa-blanche.jpg" alt="Tartare de Saumon, pomme et Alfa blanche" title="Tartare de Saumon, pomme et Alfa blanche">
+
+                                                
+
+                                            </div>
+                                        </a>
+                                    </div>
+
+                                    <div class="col-md-6">
+                                        <a href="/recettes-biocoop-villefranche-de-rouergue/tartare-de-saumon-pomme-et-alfa-blanche-206.html" class="h3 titre">Tartare de Saumon, pomme et Alfa blanche</a>
+                                    </div>
+                                </div>
+
+                                <div class="row">
+                                    <div class="col-sm-6 text-center tag-button">
+                                            <a href="/recettes-biocoop-villefranche-de-rouergue/1.html?repas=7" class="btn btn-default btnListe categorie">Entr&#233;e</a>
+                                            <a href="/recettes-biocoop-villefranche-de-rouergue/1.html?repas=9" class="btn btn-default btnListe categorie">Id&#233;e ap&#233;ritive</a>
+                                            <a href="/recettes-biocoop-villefranche-de-rouergue/1.html?repas=11" class="btn btn-default btnListe categorie">Petit d&#233;jeuner et brunch</a>
+                                    </div>
+
+                                    <div class="col-sm-6">
+                                        <div class="infoRecette">
+                                            <p>Préparation : 0 min</p>
+                                            <p>Cuisson : 0 min</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="btnRecette">
+                                    <a href="/recettes-biocoop-villefranche-de-rouergue/tartare-de-saumon-pomme-et-alfa-blanche-206.html" class="btn btn-default btnDetail">Je fais !!</a>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="col-md-6 weItem">
+                            <div class="weInnerItem">
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <a href="/recettes-biocoop-villefranche-de-rouergue/veloute-d-azukis-au-laurier-potimarron-et-panais-134.html" class="image" title="Velout&#233; d&#39;azukis au laurier, potimarron et panais">
+                                            <div class="imgHover">
+                                                    <img src="284_Velout-d-azukis-au-laurier-potimarron-et-panais.jpg" alt="Velout&#233; d&#39;azukis au laurier, potimarron et panais" title="Velout&#233; d&#39;azukis au laurier, potimarron et panais">
+
+                                                
+
+                                            </div>
+                                        </a>
+                                    </div>
+
+                                    <div class="col-md-6">
+                                        <a href="/recettes-biocoop-villefranche-de-rouergue/veloute-d-azukis-au-laurier-potimarron-et-panais-134.html" class="h3 titre">Velout&#233; d&#39;azukis au laurier, potimarron et panais</a>
+                                    </div>
+                                </div>
+
+                                <div class="row">
+                                    <div class="col-sm-6 text-center tag-button">
+                                            <a href="/recettes-biocoop-villefranche-de-rouergue/1.html?repas=7" class="btn btn-default btnListe categorie">Entr&#233;e</a>
+                                            <a href="/recettes-biocoop-villefranche-de-rouergue/1.html?repas=11" class="btn btn-default btnListe categorie">Petit d&#233;jeuner et brunch</a>
+                                    </div>
+
+                                    <div class="col-sm-6">
+                                        <div class="infoRecette">
+                                            <p>Préparation : 0 min</p>
+                                            <p>Cuisson : 0 min</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="btnRecette">
+                                    <a href="/recettes-biocoop-villefranche-de-rouergue/veloute-d-azukis-au-laurier-potimarron-et-panais-134.html" class="btn btn-default btnDetail">Je fais !!</a>
+                                </div>
+                            </div>
+                        </li>
+                </ul>
+            </div>
+        </section>
+
+        <section id="home-producteur" class="container-fluid weModule">
+            <div class="maxWidth">
+                <header class="enteteSection">
+                    <div class="row">
+                        <div class="col-sm-7 col-md-7 fullWidth">
+                            <h2 class="hTitle"><span class="weDesignSpe">Producteurs Locaux</span></h2>
+                        </div>
+                        <div class="col-sm-5 col-md-5 btnMilitant">
+                            <a href="/producteurs-biocoop-villefranche-de-rouergue/1.html" class="btn btn-default btnListe">
+                                Voir tous nos producteurs
+                                <i class="fas fa-arrow-right" aria-hidden="true"></i>
+                            </a>
+                        </div>
+                    </div>
+                </header>
+
+                <div class="row weItemList">
+                        <a href="/producteurs-biocoop-villefranche-de-rouergue/chevrerie-du-petit-compostelle-5321.html" class="weItem col-md-3 col-sm-6">
+                            <div class="weInnerItem">
+                                <div class="h3">Ch&#232;vrerie du petit Compostelle</div>
+                                <div class="row">
+
+                                        <div class="col-md-12">
+                                            <p class="code-postale">12260</p>
+                                            <p class="ville">Villeneuve </p>
+                                        </div>
+
+
+                                </div>
+
+                                <div class="resume prod-ellipsis">Install&eacute; depuis 2013 suite au rachat d&rsquo;une ferme d&eacute;j&agrave; bio la&nbsp;ch&egrave;vrerie&nbsp;du petit&nbsp;Compostelle&nbsp;poss&egrave;de un troupeau de&nbsp;ch&egrave;vres&nbsp;dont le lait est destin&eacute; &agrave; la transformation en fromage directement sur l&rsquo;exploitation.</div>
+                                <div class="prodHover">
+                                    <p>Découvrir</p>
+                                </div>
+                            </div>
+                        </a>
+                        <a href="/producteurs-biocoop-villefranche-de-rouergue/earl-de-planesty-5315.html" class="weItem col-md-3 col-sm-6">
+                            <div class="weInnerItem">
+                                <div class="h3">EARL de Planesty</div>
+                                <div class="row">
+
+                                        <div class="col-md-12">
+                                            <p class="code-postale">12240</p>
+                                            <p class="ville">Castanet</p>
+                                        </div>
+
+
+                                </div>
+
+                                <div class="resume prod-ellipsis">La ferme de&nbsp;Planesty&nbsp;install&eacute;e dans l&rsquo;Aveyron depuis pr&egrave;s de 30 ans produit diff&eacute;rentes c&eacute;r&eacute;ales pour r&eacute;aliser de la farine dans son propre moulin, des pommes de terre et &eacute;levant des&nbsp;bovins viande.&nbsp;Converti en bio &agrave; 100&nbsp;% depuis 2007 cette exploitation de 70 hectares privil&eacute;gie la distribution de ses produits au niveau local.&nbsp;</div>
+                                <div class="prodHover">
+                                    <p>Découvrir</p>
+                                </div>
+                            </div>
+                        </a>
+                        <a href="/producteurs-biocoop-villefranche-de-rouergue/sol-a-l-homme-5326.html" class="weItem col-md-3 col-sm-6">
+                            <div class="weInnerItem">
+                                <div class="h3">Sol &#224; l&#39;Homme</div>
+                                <div class="row">
+
+                                        <div class="col-md-12">
+                                            <p class="code-postale">12260</p>
+                                            <p class="ville">Sainte Croix</p>
+                                        </div>
+
+
+                                </div>
+
+                                <div class="resume prod-ellipsis">Sol &agrave; l&rsquo;homme est compos&eacute; de trois associ&eacute;s install&eacute;s depuis 2009 en boulangerie dans leur ferme &agrave;&nbsp;Sainte Croix.&nbsp;Avec le statut de Paysan Boulanger, ils sont oblig&eacute;s d&rsquo;exercer plusieurs m&eacute;tiers, ils sont donc Paysan, Meunier et Boulanger.&nbsp;La r&eacute;alisation de leur pain au levain se fait avec diff&eacute;rents types de farine de bl&eacute; r&eacute;colt&eacute;e directement sur l&rsquo;exploitation agricole avant une cuisson au four &agrave; bois.</div>
+                                <div class="prodHover">
+                                    <p>Découvrir</p>
+                                </div>
+                            </div>
+                        </a>
+                        <a href="/producteurs-biocoop-villefranche-de-rouergue/cavalie-pascal-et-rose-5328.html" class="weItem col-md-3 col-sm-6">
+                            <div class="weInnerItem">
+                                <div class="h3">Cavalie Pascal et Rose</div>
+                                <div class="row">
+
+                                        <div class="col-md-12">
+                                            <p class="code-postale">12320</p>
+                                            <p class="ville">Pruines</p>
+                                        </div>
+
+
+                                </div>
+
+                                <div class="resume prod-ellipsis">Pascal et Rose&nbsp;Cavalie&nbsp;sont des apiculteurs Aveyronnais qui ont cr&eacute;&eacute; leur entreprise en 1988 en conventionnel.&nbsp;Converti en bio depuis 2000 suite &agrave; la disparition de ruches.&nbsp;Aujourd&rsquo;hui, ils produisent diff&eacute;rents types de miel&nbsp;;&nbsp;du miel de montagne, de causses, de lavande, d&rsquo;acacia et de ch&acirc;taigner &agrave; partir de leurs 350 ruches qu&rsquo;ils d&eacute;placent entre le nord Aveyron, le Larzac et l&rsquo;H&eacute;rault tout en &eacute;vitant les zones &agrave; risque OGM.</div>
+                                <div class="prodHover">
+                                    <p>Découvrir</p>
+                                </div>
+                            </div>
+                        </a>
+                </div>
+
+                    <div class="newsletter">
+                        <div class="h2">Rencontrez nos producteurs locaux !</div>
+                        <p>
+                            Pour être informé des rencontres avec les producteurs locaux organisées dans votre magasin Biocoop
+                            <span class="inscription"> Inscrivez-vous à notre newsletter</span>
+                            <a href="#" onclick="openNewsletter()" class="btn btn-default">inscrivez-vous ! </a>
+                        </p>
+                    </div>
+            </div>
+        </section>
+    <section id="engagement" class="container-fluid weModule">
+        <div class="maxWidth">
+            <div class="h3 title">Des engagements concrets pour vous garantir le meilleur de nos valeurs</div>
+            <div class="row weExtensible">
+                <div class="col-md-3 col-sm-6 weExtend">
+                    <div class="weInnerExtend">
+                        <img class="image" src="pasteque.png" alt="pasteque">
+                        <div class="description">
+                            <div class="h4">Refus des OGM</div>
+                            <p class="resume">pour protéger l'environnement et nos assiettes</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-3 col-sm-6 weExtend">
+                    <div class="weInnerExtend">
+                        <img class="image" src="agriculteur.png" alt="agriculteur">
+                        <div class="description">
+                            <div class="h4">Solidarité</div>
+                            <p class="resume">avec les producteurs agricoles bio</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-3 col-sm-6 weExtend">
+                    <div class="weInnerExtend">
+                        <img class="image" src="camion.png" alt="camion">
+                        <div class="description">
+                            <div class="h4">Produits locaux</div>
+                            <p class="resume">pour diminuer l'empreinte écologique</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-3 col-sm-6 weExtend">
+                    <div class="weInnerExtend">
+                        <img class="image" src="pomme.png" alt="pomme">
+                        <div class="description">
+                            <div class="h4">Des prix justes</div>
+                            <p class="resume">pour une bio accessible et exigeante</p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+
+    <section id="catalogue" class="container-fluid weModule">
+        <div class="maxWidth">
+            <div class="catalogueContent">
+                <h2 class="hTitle">Cultures bio, le magazine de Biocoop</h2>
+                <div class="h3">Culture(s)bio, c'est le magazine édité par Biocoop</div>
+                <div class="infoCatalogue">
+                    <p>
+                        Comme Consom'action créé à la fin des années 90 et dont il a pris le relais
+                        à partir du n°77(septembre-octobre 2014), il est gratuitement disponible dans les magasins Biocoop, dans la limite des stocks disponibles.
+                        <br>
+                        Rendez-vous tous les deux mois ! Entièrement repensé, répondant aux codes graphiques actuels, CULTURE(S)BIO s'articule autour de 3 grands chapitres :
+                    </p>
+
+                    <ul>
+                        <li>AGITATEURS,</li>
+                        <li>RESPONSABLES,</li>
+                        <li>ENGAGES,</li>
+                    </ul>
+
+                    <p>
+                        déclinés en rubriques (Actu-Bio, Ca fait causer, Décryptage, Dossier, Santé, Cuisine, Terroir et territoire, etc. ).
+                    </p>
+                </div>
+
+                <div class="slogan">
+                    Une mine d’infos pour tous ceux qui aiment la bio et veulent encore mieux la connaître !<br>
+                    Sujets de fond, décryptages, dossiers d’actualité, experts reconnus…,<br>
+                    <span>CULTURE(S)BIO, c’est 100% bio !</span>
+                </div>
+            </div>
+            <ul class="row weItemList">
+                        <li class="col-md-3 col-sm-6 weItem">
+                            <div class="weInnerItem">
+                                <div class="h2">N&#176;116</div>
+                                    <p class="date">À partir du 18/03/2021</p>
+                                <a class="image" href="/docs/1/Catalogues/mel80591culturebion116.pdf" target="_blank"><img src="bioco116001.jpg" alt="N&#176;116" title="N&#176;116"></a>
+                                <a href="/docs/1/Catalogues/mel80591culturebion116.pdf" target="_blank" class="btn btn-default btnDetail">consulter le magazine</a>
+                            </div>
+                        </li>
+                        <li class="col-md-3 col-sm-6 weItem">
+                            <div class="weInnerItem">
+                                <div class="h2">N&#176;115</div>
+                                    <p class="date">À partir du 19/01/2021</p>
+                                <a class="image" href="/docs/1/Catalogues/melbiocoop115.pdf" target="_blank"><img src="bioco115001.jpg" alt="N&#176;115" title="N&#176;115"></a>
+                                <a href="/docs/1/Catalogues/melbiocoop115.pdf" target="_blank" class="btn btn-default btnDetail">consulter le magazine</a>
+                            </div>
+                        </li>
+                        <li class="col-md-3 col-sm-6 weItem">
+                            <div class="weInnerItem">
+                                <div class="h2">N&#176;114</div>
+                                    <p class="date">À partir du 01/11/2020</p>
+                                <a class="image" href="/docs/1/Catalogues/bdbiocoop114.pdf" target="_blank"><img src="bioco114001-1.jpg" alt="N&#176;114" title="N&#176;114"></a>
+                                <a href="/docs/1/Catalogues/bdbiocoop114.pdf" target="_blank" class="btn btn-default btnDetail">consulter le magazine</a>
+                            </div>
+                        </li>
+                        <li class="col-md-3 col-sm-6 weItem">
+                            <div class="weInnerItem">
+                                <div class="h2">N&#176;113</div>
+                                    <p class="date">À partir du 06/10/2020</p>
+                                <a class="image" href="/docs/1/Catalogues/bdbiocoop113.pdf" target="_blank"><img src="biocoop113cmakheiaistock.jpg" alt="N&#176;113" title="N&#176;113"></a>
+                                <a href="/docs/1/Catalogues/bdbiocoop113.pdf" target="_blank" class="btn btn-default btnDetail">consulter le magazine</a>
+                            </div>
+                        </li>
+            </ul>
+        </div>
+    </section>
+</div>
+    </div>
+    <footer>
+        <div id="weFooter" class="baseFooter">
+            <div class="bottomNav">
+                <div class="container-fluid">
+                    <div class="maxWidth">
+                        <div class="row">
+                            <div class="col-md-8">
+                                <ul id="cookies" class="footerNav">
+                                    <li><a href="/">Accueil</a></li>
+                                    <li>/</li>
+                                    <li><a href="/mentions-legales-biocoop-villefranche-de-rouergue.html">Mentions Légales</a></li>
+                                    <li>/</li>
+                                    <li><a href="#cookies" style="cursor: pointer;" title="Gestion des cookies">Gestion des cookies</a></li>
+                                    <li>/</li>
+                                    <li><a href="/contact-biocoop-villefranche-de-rouergue.html">Contact</a></li>
+                                    <li>/</li>
+                                    <li><a href="http://www.biocoop.fr/" target="_blank">Biocoop.fr</a></li>
+                                    <li>/</li>
+                                    <li><a href="http://www.biocoop.fr/magasins-bio/Trouver-mon-magasin-Biocoop" target="_blank">Le réseau Biocoop</a></li>
+                                </ul>
+                            </div>
+
+                            <div class="col-md-4">
+                                <ul class="containerReseauSociaux">
+
+
+                                        <li class="reseauSociaux">
+                                            <a href="https://www.facebook.com/Biocoop-Villefranche-Rouergue-1892693717636587/" target="_blank"><i class="fab fa-facebook-f" aria-hidden="true"></i></a>
+                                        </li>
+                                        <li class="reseauSociaux">
+                                            <a href="https://www.instagram.com/biocoopvillefranchederouergue/" target="_blank"><i class="fab fa-instagram" aria-hidden="true"></i></a>
+                                        </li>
+                                        <li class="reseauSociaux">
+                                            <a href="https://twitter.com/Biocoop" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+                                        </li>
+                                        <li class="reseauSociaux">
+                                            <a href="https://www.youtube.com/user/ReseauBiocoop" target="_blank"><i class="fab fa-youtube" aria-hidden="true"></i></a>
+                                        </li>
+                                        <li class="reseauSociaux">
+                                            <a href="https://fr.pinterest.com/biocoop/" target="_blank"><i class="fab fa-pinterest" aria-hidden="true"></i></a>
+                                        </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="footerInfo">
+                <div class="container-fluid">
+                    <div class="maxWidth">
+                        <div class="row">
+                                <div class="col-md-12">
+                                    <div class="h2">
+                                        Biocoop Villefranche de Rouergue
+                                    </div>
+                                    <div class="adresse"><i class="fas fa-location-arrow"></i><span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="streetAddress">102 bis avenue du Quercy (Route de Montauban)</span>, <span itemprop="addressLocality">Villefranche-de-Rouergue</span> (<span itemprop="postalCode">12200</span>)</span>  /   09 67 16 14 92  /  44,360603 ° , 2,015564 ° </div>
+                                </div>
+                        </div>
+
+
+
+                        <div class="row">
+                            <div class="col-md-8">
+                                    <div class="h3">Est proche de :</div>
+                                    <p>
+                                        12440 Lescure-Jaoul, 12260 Balaguier-d, 12700 Causse-et-Di&#232;ge, 12260 Foissac, 12700 Naussac, 12260 Salles-Courbati&#232;s, 12350 Brandonnet, 12350 Compolibat, 12350 Drulhe, 12350 Lanu&#233;jouls, 12350 Maleville, 12220 Peyrusse-le-Roc, 12350 Privezac, 12220 Vaureilles, 12270 Bor-et-Bar, 12270 La Fouillade, 12270 Lunac, 12200 Monteils, 12270 Najac, 12270 St-Andr&#233;-de-Najac, 12200 Sanvensa, 12200 La Bastide-l, 12240 La Capelle-Bleys, 12350 Pr&#233;vinqui&#232;res, 12240 Rieupeyroux, 12200 St-Salvadou, 12240 Vabre-Tizac, 12200 La Rouquette, 12200 Martiel, 12200 Morlhon-le-Haut
+                                    </p>
+                            </div>
+                            <div class="col-md-4 newsletter-footer">
+                                    <a href="#" onclick="openNewsletter()">
+                                        <span>Inscrivez-vous !</span><br>
+                                        <span class="before">
+                                            <img src="bulle5-min.png">
+                                            Newsletter
+                                        </span>
+                                    </a>
+                            </div>
+                        </div>
+
+                        <div class="reseau">
+                            <a href="http://www.biocoop.fr/magasins-bio/Trouver-mon-magasin-Biocoop" class="logo-biocoop">
+                                <p>un magasin du réseau <img src="../fonts/logo-biocoop-v2.svg" target="_blank" alt="logo Biocoop"></p>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="container-fluid credits">
+            <div class="row maxWidth">
+                <div class="col-sm-12 text-right">
+                    <a id="weSiteCredits" target="_blank" href="http://www.web-enseignes.com"><span class="weDesignSpe01">Réalisé avec </span><span class="weDesignSpe02"><span class="weDesignSpe03">WEB</span> Enseignes</span></a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    
+
+
+
+    
+    <script>
+        var button = $("#back-to-top");
+
+        button.click(function (event) {
+            event.preventDefault();
+            $("body,html").animate({ scrollTop: 0 }, 600);
+        });
+
+        $(document).scroll(function () {
+            if ($(document).scrollTop() > 250) {
+                button.fadeIn("slow");
+            } else {
+                button.fadeOut("slow");
+            };
+        });
+    </script>
+
+
+        <script src="../js/bounce.min.js"></script>
+        <script type="text/javascript">
+
+            function closeNewsletter() {
+                var bounce = new Bounce();
+                bounce.scale({
+                    from: { x: 1, y: 1 },
+                    to: { x: 0.5, y: 0.5 }
+                });
+                bounce.applyTo(document.querySelectorAll(".animation-target"));
+
+                $('#newsletter').fadeOut(300);
+                document.cookie = 'nbView=5;path=/'
+                //$('#newsletter').css('display', 'none');
+            }
+
+            $(document).ready(function () {
+
+                var bounce = new Bounce();
+                $('#newsletter').css('display', 'block');
+                bounce.scale({
+                    from: { x: 0.5, y: 0.5 },
+                    to: { x: 1, y: 1 }
+                });
+                bounce.applyTo(document.querySelectorAll(".animation-target"));
+
+                $('.close-newsletter').on('click', function () {
+                    closeNewsletter()
+                });
+
+
+
+            })
+        </script>
+    <script src="../js/masonry.pkgd.js"></script>
+    <script src="../js/imagesloaded.pkgd.js"></script>
+
+    <script>
+        function submitPage() {
+            var url = $(this).attr("href");
+            if (url != "") {
+                window.location.href = url;
+            }
+        }
+    </script>
+
+    <script>
+        $(window).ready(function () {
+            var width;
+
+            if ($(document).width() < 480) {
+                var width = $(".grid").width();
+            }
+
+            if ($(document).width() > 480 && $(document).width() < 740) {
+                var width = $(".grid").width() * 50 / 100;
+            }
+
+            if ($(document).width() > 740) {
+                var width = $(".grid").width() * 20 / 100;
+            }
+
+            var $grid = $('.grid').imagesLoaded(function () {
+                // init Masonry after all images have loaded
+                $grid.masonry({
+                    itemSelector: '.grid-item',
+                    columnWidth: width
+                });
+
+                $('.grid-item').css("width", width);
+                $grid.masonry();
+            });
+            //var $grid = $('.grid').masonry({
+            //    // options
+            //    itemSelector: '.grid-item',
+            //    columnWidth: width
+            //});
+
+
+        });
+    </script>
+
+    <script>
+        $(document).ready(function () {
+            $('[data-toggle="tooltip"]').tooltip();
+        });
+
+
+    </script>
+
+    
+    <script src="../js/bootstrap.min.js"></script>
+<script src="../js/respond.js"></script>
+
+
+
+    <script type="text/javascript">
+        ; (function ($, window, document, undefined) {
+            'use strict';
+            var $list = $('.weItemList'),
+                $allItems = $list.find('.weInnerItem'),
+                adjustItemList = function () {
+                    $allItems.css('height', 'auto');
+                    $list.each(function () {
+                        var $items = $(this).find('.weInnerItem');
+                        var perRow = Math.floor($(this).width() / $(this).find('.weItem').outerWidth(true));
+                        if (perRow == null || perRow < 2) return true;
+
+                        for (var i = 0, j = $items.length; i < j; i += perRow) {
+                            var maxHeight = 0,
+                                $row = $items.slice(i, i + perRow);
+
+                            $row.each(function () {
+                                var itemHeight = parseInt($(this).outerHeight());
+                                if (itemHeight > maxHeight) maxHeight = itemHeight;
+                            });
+                            $row.css('height', maxHeight);
+                        }
+                    })
+                };
+            var $extend = $('.weExtensible'),
+                $allExtend = $extend.find('.weInnerExtend'),
+                adjustExtend = function () {
+                    $allExtend.css('height', 'auto');
+                    $extend.each(function () {
+                        var elmt = $(this).find('.weInnerExtend');
+                        var previousWidth = 0, startLine = 0, endLine = 0;
+                        for (var i = 0; i < elmt.length; i++) {
+                            var actualRow = $(this).width() - (previousWidth + elmt.eq(i).parent().outerWidth(true));
+                            previousWidth += elmt.eq(i).parent().outerWidth(true);
+
+                            if (actualRow == null || actualRow < 0 || (i == elmt.length - 1 && previousWidth != 0)) { //si le resultat est improbable || négatif (row > container || si le dernier item n'est pas seul sur sa ligne
+                                previousWidth = 0;
+                                if (i == elmt.length - 1 && (actualRow > 0 || (elmt.length == 2 && actualRow > 0))) endLine = i + 1; //si le dernier item n'est pas seul sur sa ligne l'inclure dans la row en cours
+                                else endLine = i;
+                                var maxHeight = 0,
+                                    $row = elmt.slice(startLine, endLine);
+                                if ($row.length > 1) {
+                                    $row.each(function () {
+                                        var elmtHeight = parseInt($(this).outerHeight());
+                                        if (elmtHeight > maxHeight) maxHeight = elmtHeight;
+                                    });
+                                    $row.css('height', maxHeight);
+                                }
+                                startLine = i;
+                                if (elmt.length > 2 && actualRow < 0) i--; //si le résultat était négatif reprendre à partir de l'item faisant dépasser
+                            }
+                        }
+                    })
+                };
+            adjustItemList();
+            adjustExtend();
+            $(window).bind("load", adjustItemList);
+            $(window).bind("load", adjustExtend);
+            $(window).on('resize', adjustItemList);
+            $(window).on('resize', adjustExtend);
+            $("#weHeader").on('affixed.bs.affix affixed-top.bs.affix', adjustExtend); //calcul des hauteurs avec tabs
+
+            $('#weHeader').affix({
+                offset: {
+                    top: $('.topHeaderInfo').outerHeight(),
+                },
+
+                scrollTop: 0,
+            });
+            $(window).on('affix.bs.affix', function () {
+                $('#weSiteContent').css('padding-top', $('#weHeader').outerHeight() + 'px');
+            });
+            $(window).on('affix-top.bs.affix', function () {
+                $('#weSiteContent').css('padding-top', 0);
+            });
+
+            //var width = $("#home-produit .weInnerItem").innerWidth() + $("#home-produit .weInnerItem .icones").innerWidth();
+            //$('#home-produit .logos').css("width", width);
+            //var margin = '-' + $('#home-produit .icones').innerWidth();
+            //$('#home-produit .logos').css('margin-left', margin + "px");
+
+        })(jQuery, window, document);
+    </script>
+
+    <div class="modal fade" id="modalNewsletter" tabindex="-1" role="dialog">
+    </div>
+
+    
+    <script>
+        function openNewsletter() {
+            $("#modalNewsletter").modal('show');
+            $("#modalNewsletter").load("/Formulaires/Newsletter");
+            closeNewsletter();
+
+        }
+
+        //REGION MAJ DES QUERYSTRING ET FOLDERS EN LIVE PRODUITS/RECETTES
+        function UpdateQueryString(key, value, url) {
+            if (!url) url = window.location.href;
+            var re = new RegExp("([?&])" + key + "=.*?(&|#|$)(.*)", "gi"),
+                hash;
+
+            if (re.test(url)) {
+                if (typeof value !== 'undefined' && value !== null)
+                    return url.replace(re, '$1' + key + "=" + value + '$2$3');
+                else {
+                    hash = url.split('#');
+                    url = hash[0].replace(re, '$1$3').replace(/(&|\?)$/, '');
+                    if (typeof hash[1] !== 'undefined' && hash[1] !== null)
+                        url += '#' + hash[1];
+                    return url;
+                }
+            }
+            else {
+                if (typeof value !== 'undefined' && value !== null) {
+                    var separator = url.indexOf('?') !== -1 ? '&' : '?';
+                    hash = url.split('#');
+                    url = hash[0] + separator + key + '=' + value;
+                    if (typeof hash[1] !== 'undefined' && hash[1] !== null)
+                        url += '#' + hash[1];
+                    return url;
+                }
+                else
+                    return url;
+            }
+        }
+
+        function UpdateQueryStringAndRefresh(key, value, url) {
+            window.location.href = UpdateQueryString(key, value, url);
+        }
+
+        function UpdateFoldersFromSelect(elt, g, r, f, sf, ssf) {
+            var option = $(elt).find(":selected");
+            var key = option.data("key");
+            var value = option.data("value");
+            if (key != "" && value != "") {
+                switch (key) {
+                    case ("g"):
+                        UpdateFolders(value)
+                        break;
+                    case ("r"):
+                        UpdateFolders(g, value)
+                        break;
+                    case ("f"):
+                        UpdateFolders(g, r, value)
+                        break;
+                    case ("sf"):
+                        UpdateFolders(g, r, f, value)
+                        break;
+                    case ("ssf"):
+                        UpdateFolders(g, r, f, sf, value)
+                        break;
+                }
+            }
+        }
+
+        function UpdateFolders(g, r, f, sf, ssf) {
+            var url = window.location.pathname;
+            var pathArray = url.split('/');
+            var newPathArray = new Array();
+
+            newPathArray.push(pathArray[1]); //produits-{nomCommercial}.html
+
+            if (g != null) {
+                newPathArray.push(g);
+                if (r != null) {
+                    newPathArray.push(r);
+                    if (f != null) {
+                        newPathArray.push(f);
+                        if (sf != null) {
+                            newPathArray.push(sf);
+                            if (ssf != null) {
+                                newPathArray.push(ssf);
+                            }
+                        }
+                    }
+                }
+            }
+
+            newPathArray.push(pathArray[pathArray.length - 1]); //{page}.html
+
+
+            var newPathname = "";
+            for (i = 0; i < newPathArray.length; i++) {
+                newPathname += "/";
+                newPathname += newPathArray[i];
+            }
+            url = window.location.protocol + "//" + window.location.host + newPathname + window.location.search;
+            console.log(url);
+            window.location.href = url;
+        }
+
+        //END REGION
+    </script>
+
+    
+
+    
+
+    
+    <script>
+            $(document).ready(function () {
+                if ($(document).width() < 750) {
+                    $('#infoMagasinContent').find(".telephone").attr("href", "tel:0967161492");
+                    $('.topHeaderInfo').find(".telephone").attr("href", "tel:0967161492");
+                }
+
+                else {
+                    $('#infoMagasinContent').find('.telephone').attr("href", "/contact-biocoop-villefranche-de-rouergue.html");
+                    $('.topHeaderInfo').find(".telephone").attr("href", "/contact-biocoop-villefranche-de-rouergue.html");
+                }
+            });
+    </script>
+
+    
+    <script>
+        $(document).ready(function () {
+            $(".page-libre").each(function () {
+                if ($(this).text().length > 21) {
+                    var text = $(this).html();
+                    var sub = text.substring(0, 12) + "...";
+
+                    $(this).attr("title", $(this).text());
+                    $(this).html(function () {
+                        var replace = text.replace(text.toString(), sub);
+                        return replace;
+                    });
+                }
+            })
+
+        })
+    </script>
+
+    
+
+    <script>
+        $(document).ready(function () {
+            var prod = $(".prod-ellipsis");
+            prod.each(function () {
+                if ($(this).text().length > 131) {
+                    var text = $(this).html();
+                    var sub = text.substring(0, 131) + "...";
+
+                    $(this).html(function () {
+                        var replace = text.replace(text.toString(), sub);
+                        return replace;
+                    });
+                }
+            })
+
+        })
+    </script>
+
+
+    
+
+    <script src="../js/jquery.touchSwipe.min.js"></script>
+
+    
+
+    <script>
+
+        $(document).ready(function () {
+            var input = $("#origin").text();
+        })
+    </script>
+
+    
+    <script>
+        $(document).ready(function () {
+            var input = $("#itineraireHoraire").find(".input-group").find("input");
+            input.change(function () {
+                $(".imprimer").remove();
+                $(".input-group").after("<a href='javascript:window.print();' class='btn btn-default imprimer'>Imprimer l'itinéraire</a>");
+            })
+
+        });
+
+    </script>
+</body>
+</html>
